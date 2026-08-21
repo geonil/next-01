@@ -14,7 +14,7 @@ export default function ReviewSection({ reviews }: { reviews: Review[] }) {
     <section id="reviews" className="mx-auto max-w-6xl px-5 py-16">
       <div className="mb-10 text-center">
         <h2 className="text-2xl font-extrabold text-navy sm:text-3xl">
-          케어링 후기
+          태호요양 후기
         </h2>
         <p className="mt-2 text-sm text-[#4A5568] sm:text-base">
           50,000건 이상의 이용자 후기가 증명합니다

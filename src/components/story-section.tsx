@@ -9,10 +9,10 @@ export default function StorySection({
     <section className="mx-auto max-w-6xl px-5 py-16">
       <div className="mb-10 text-center">
         <h2 className="text-2xl font-extrabold text-navy sm:text-3xl">
-          케어링 사람들 이야기
+          태호요양 사람들 이야기
         </h2>
         <p className="mt-2 text-sm text-[#4A5568] sm:text-base">
-          어르신 곁을 지키는 케어링 사람들을 소개합니다
+          어르신 곁을 지키는 태호요양 사람들을 소개합니다
         </p>
       </div>
 

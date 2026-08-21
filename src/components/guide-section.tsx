@@ -9,7 +9,7 @@ export default function GuideSection({ guides }: { guides: Guide[] }) {
             요양 필수 가이드
           </h2>
           <p className="mt-2 text-sm text-[#4A5568] sm:text-base">
-            처음이라 막막하신가요? 케어링이 정리했어요
+            처음이라 막막하신가요? 태호요양이 정리했어요
           </p>
         </div>
 

@@ -15,7 +15,7 @@ export default function ConsultSection({
             전문가 무료 상담
           </h2>
           <p className="mt-2 text-sm text-white/70 sm:text-base">
-            궁금하신 점이 있나요? 케어링 전문가가 답해드려요
+            궁금하신 점이 있나요? 태호요양 전문가가 답해드려요
           </p>
         </div>
 

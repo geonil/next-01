@@ -9,7 +9,7 @@ const notoSansKr = Noto_Sans_KR({
 });
 
 export const metadata: Metadata = {
-  title: "케어링 - 부모님은 소중하니까",
+  title: "태호요양 - 부모님은 소중하니까",
   description:
     "가족요양, 방문요양, 주간보호, 요양원, 실버타운까지. 부모님은 소중하니까, 무엇이든 물어보세요.",
 };

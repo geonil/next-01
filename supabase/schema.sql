@@ -25,7 +25,7 @@ create table if not exists guides (
   created_at timestamptz not null default now()
 );
 
--- 3. reviews: 케어링 후기
+-- 3. reviews: 태호요양 후기
 create table if not exists reviews (
   id uuid primary key default gen_random_uuid(),
   category text not null,
@@ -45,7 +45,7 @@ create table if not exists consult_topics (
   updated_at timestamptz not null default now()
 );
 
--- 5. staff_stories: 케어링 사람들 이야기
+-- 5. staff_stories: 태호요양 사람들 이야기
 create table if not exists staff_stories (
   id uuid primary key default gen_random_uuid(),
   role text not null,

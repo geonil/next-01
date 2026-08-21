@@ -14,7 +14,7 @@ export default function SiteHeader({ phone }: { phone: string }) {
       <div className="mx-auto flex h-16 max-w-6xl items-center justify-between px-5">
         <Link href="/" className="flex items-center gap-1">
           <span className="text-2xl font-black tracking-tight text-navy">
-            케어링
+            태호요양
           </span>
         </Link>
 

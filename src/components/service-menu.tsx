@@ -9,7 +9,7 @@ export default function ServiceMenu({
     <section className="mx-auto max-w-6xl px-5 py-16">
       <div className="mb-10 text-center">
         <h2 className="text-2xl font-extrabold text-navy sm:text-3xl">
-          케어링 — 방문요양·가족요양·주간보호
+          태호요양 — 방문요양·가족요양·주간보호
         </h2>
         <p className="mt-2 text-sm text-[#4A5568] sm:text-base">
           어르신께 꼭 맞는 돌봄 서비스를 찾아보세요
